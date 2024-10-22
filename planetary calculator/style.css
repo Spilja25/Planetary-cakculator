@@ -1,0 +1,31 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.flex-item {
+  margin: 10px;
+}
+
+.planet-image {
+  width: 200px;
+  height: auto;
+}
+
+input,
+select,
+button {
+  padding: 10px;
+  margin: 5px;
+}
